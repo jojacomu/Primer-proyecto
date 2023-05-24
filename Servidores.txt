@@ -1,0 +1,26 @@
+Arquitectura
+Cliente - Servidor
+Protocolo HTTP / HTTPS
+
+Forma en que intercambia información un servidor para dar respuesta las peticiones de clientes.
+
+Envío de páginas web.
+Streaming de datos.
+Envío de datos con determinada estructura. (API)
+Enviar datos crudos. Paquetes de datos
+Estandarización de envío de datos
+
+Application Programming Interface
+
+Servidor central
+Recibir diferentes clientes
+Agregar identificadores a los usuario
+
+NPM - Librerías
+
+
+
+
+
+
+

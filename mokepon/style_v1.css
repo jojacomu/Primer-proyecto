@@ -1,0 +1,32 @@
+.titulo {
+    color: rgb(17 2 153);
+    width: 310;
+    height: 50px;
+    background-color: #ff8800;
+}
+
+label {
+    background-color: #ff0000;
+    width: 310;
+    height: 50px;
+}
+
+input {
+    background-color: #ff00d4;
+    width: 310;
+    height: 50px;
+}
+
+button {
+    background-color: #5c0454;
+    width: 310;
+    height: 50px;
+}
+/*Estilos por id
+#tituloPrincipal {
+    color: rgb(219, 96, 25)
+}*/
+/*Estilos por tipo
+h1 {
+    color: rgb(128, 150, 5)
+}*/
